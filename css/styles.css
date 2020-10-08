@@ -4,6 +4,8 @@ body{
 }
 
 
+
+
 h1{
 font-family: 'Montserrat', sans-serif;
  font-size:3.5rem;
@@ -191,4 +193,10 @@ margin:5% 3% 5% 0;
 }
 .social-icon{
   margin:20px 10px;
+  color:black;
+
+}
+.social-icon:hover
+{
+  color:#ff4c68;
 }
